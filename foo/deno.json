@@ -1,0 +1,8 @@
+{
+  "name": "@deno/i-dont-exist-yet",
+  "version": "0.0.1",
+  "exports": {
+    ".": "./mod.ts",
+    "types": "./types.ts"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@deno/i-dont-exist-yet": "jsr:@deno/i-dont-exist-yet"
+  },
+  "patch": ["../foo"]
+}
